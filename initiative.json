@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Holly",
+    "roll": 11,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\nobody.jpg"
+  },
+  {
+    "name": "Arran",
+    "roll": 10,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\nobody.jpg"
+  },
+  {
+    "name": "Dresiel",
+    "roll": 18,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\nobody.jpg"
+  },
+  {
+    "name": "Kevin",
+    "roll": 21,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\nobody.jpg"
+  },
+  {
+    "name": "Ismark",
+    "roll": 17,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\nobody.jpg"
+  },
+  {
+    "name": "Iréna",
+    "roll": 6,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\nobody.jpg"
+  },
+  {
+    "name": "Bendegúz",
+    "roll": 1,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\nobody.jpg"
+  },
+  {
+    "name": "Strahd",
+    "roll": 20,
+    "hp": 100,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\Strahd.jpg"
+  },
+  {
+    "name": "Vampire spawn",
+    "color": "blue",
+    "roll": 12,
+    "hp": 60,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\female vampire spawn.png"
+  },
+  {
+    "name": "Vampire spawn",
+    "color": "red",
+    "roll": 10,
+    "hp": 60,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\female vampire spawn.png"
+  },
+  {
+    "name": "Vampire spawn",
+    "color": "yellow",
+    "roll": 10,
+    "hp": 60,
+    "art": "C:\\Users\\SeriouslyHi\\PycharmProjects\\warwheel\\pics\\female vampire spawn.png"
+  }
+]
